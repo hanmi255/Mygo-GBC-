@@ -1,2 +1,2 @@
-# GameDemo
+# Mygo&GBC 五子棋
 在这里存放制作的小游戏
